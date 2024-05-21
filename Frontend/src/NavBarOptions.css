@@ -1,0 +1,18 @@
+.NavBarOptions{
+    display: flex;
+    margin: 10px;
+}
+
+.NavBarOptions a{
+    align-self: center;
+    margin-right: 1.5rem;
+    font-weight:700;
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.NavBarOptions a:hover {
+    color: red;
+    text-decoration: underline;
+}
